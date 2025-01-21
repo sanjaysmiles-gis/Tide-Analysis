@@ -55,7 +55,3 @@ The script generates multiple visualizations:
 2. Scatter plots comparing predictions with observations
 3. Error distribution histograms
 4. Performance metrics table comparing UTide and Combined models
-
-## License
-
-This project is open source and available under the MIT License.
